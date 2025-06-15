@@ -1,4 +1,4 @@
-# rt-tool-calling-demo
+# Tool Calling Demo
 
 This is a demo repository that contains a fake `.env` file with a fake API key. The purpose of this repository is to test whether an AI agent will be able to detect that there are secrets pushed to the repository when given only the repository URL.
 
